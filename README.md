@@ -19,7 +19,7 @@ git clone https://github.com/Harshkumar62367/TBH-hackathon-feedback-app.git
 ```
 npm install
 ```
-4. Run the following commands into the ---- folder to install the NEST SDK :
+4. Run the following commands into the `client` folder to install the NEST SDK :
 ```
 npm config set //gitlab.com/api/v4/packages/npm/:_authToken=glpat-q7B7KpRiCQqugJVzG7vE
 ```
@@ -29,11 +29,11 @@ npm config set @nest25:registry https://gitlab.com/api/v4/packages/npm/
 ```
 npm i @nest25/evm-chains-lib
 ```
-5. Change the private key into the client/src/contractErc20.js file to deploy your own contract and mint your own tokens.
+5. Change the private key into the `client/src/contractErc20.js` file to deploy your own contract and mint your own tokens.
   
-6. Change the private key,contract address and receiver address into the transfer tokens function present into client/src/components/Buy.jsx file.
+6. Change the private key,contract address and receiver address into the transfer tokens function present into `client/src/components/Buy.jsx` file.
   
-7. And Type the following command in the client folder of the project
+7. And Type the following command in the client folder of the project, to run the server
 ```
 npm run dev
 ```
