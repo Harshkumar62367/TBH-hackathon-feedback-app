@@ -1,8 +1,11 @@
 # Feedback App using NES.TECH SDK from The Binary Holdings
 
+![image](https://github.com/Harshkumar62367/TBH-hackathon-feedback-app/assets/72465090/32cb64c3-de8f-4819-9947-44e4e9fc2de3)
+
+
 ### Tech Stacks Used👨‍💻
 
-Reactjs: Refer to https://react.dev/ install React
+Reactjs: Install React from https://vitejs.dev/guide/
 
 Solidity: Refer to Solidity docs
 
