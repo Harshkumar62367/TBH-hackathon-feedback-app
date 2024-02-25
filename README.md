@@ -1,11 +1,17 @@
 # Feedback App using NES.TECH SDK from The Binary Holdings
 
 ### Tech Stacks Used👨‍💻
+
 Reactjs: Refer to https://react.dev/ install React
+
 Solidity: Refer to Solidity docs
+
 Hardhat: Refer to Hardhat docs
+
 EtherJs: Refer to EtherJs docs
+
 Metamask: Metamask is a browser extension that allows users to interact with the Ethereum blockchain. It allows users to connect to the Ethereum network and interact with smart contracts.
+
 NEST SDK: SDKs available in every language, smart contracts, tools, and infrastructure for web3 development.
 
 ### Prerequisites 👨‍💻
